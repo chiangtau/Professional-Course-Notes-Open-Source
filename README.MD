@@ -8,6 +8,8 @@
 
 # 4. Contributors
 
-# 5. Join & Contact me
+# 5. Join & Contact Me
 
-# 6. Acknowledgements
+# 6. Update Logs
+
+# 7. Acknowledgements
