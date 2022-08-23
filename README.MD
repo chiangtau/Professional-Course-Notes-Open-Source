@@ -1,15 +1,25 @@
-# 0. Welcome
+# **Professional Course Notes Open Source BUPT**  [![](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/chiangtau/Professional-Course-Notes-Open-Source-BUPT/blob/main/LICENSE) 
 
-# 1. Statement
+Hello, there! Welcome to this repository, which provides most of the undergraduate course notes of Beijing University of Posts and Telecommunications, created by [@chiangtau](https://github.com/chiangtau). You can use the **completely open-source & free** notes here. The formats provided by this repository include GoodNotes and PDF versions. Due to the limitation of Github, when the file size is less than 100M, it can be downloaded directly from the repository. If the file is larger than 100M, it can be opened through the link of Google Drive.
 
-# 2. Catalog Intro
+## **1. Before Using**
+-------------
+1. 
 
-# 3. Instructions
+## **2. Catalog Intro**
+-------------
 
-# 4. Contributors
+## **3. Instructions**
+-------------
 
-# 5. Join & Contact Me
+## **4. Contributors**
+-------------
 
-# 6. Update Logs
+## **5. Join & Contact Me**
+-------------
 
-# 7. Acknowledgements
+## **6. Update Logs**
+-------------
+
+## **7. Contributors**
+-------------
