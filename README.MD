@@ -4,7 +4,7 @@ Hello, there! Welcome to this repository, which provides most of the undergradua
 
 ## **1. Before Using**
 -------------
-1. 
+1. You need to download GoodNotes or PDF viewer first (Adobe Acrobat is recommended). Click on the image below to jump to the corresponding website.
 
 ## **2. Catalog Intro**
 -------------
@@ -23,3 +23,5 @@ Hello, there! Welcome to this repository, which provides most of the undergradua
 
 ## **7. Contributors**
 -------------
+## **LINKS**
+[![](https://github.com/chiangtau/Professional-Course-Notes-Open-Source-BUPT/blob/main/src/GoodNotes.png)](https://www.goodnotes.com/)
