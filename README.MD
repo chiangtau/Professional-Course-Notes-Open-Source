@@ -14,7 +14,7 @@ Hello, there! Welcome to this repository, which provides most of the undergradua
 
 ## **Catalog & Update Logs**
 -------------
- 
+
 
 ## **Contributors**
 -------------
@@ -24,8 +24,5 @@ Hello, there! Welcome to this repository, which provides most of the undergradua
 
 
 ## **LINKS**
-[![](https://github.com/chiangtau/Professional-Course-Notes-Open-Source-BUPT/blob/main/src/GoodNotes.png)](https://www.goodnotes.com/)
-
-[![](https://github.com/chiangtau/Professional-Course-Notes-Open-Source-BUPT/blob/main/src/Acrobat.png)](https://www.adobe.com/hk_zh/acrobat/pdf-reader.html)
-
-[![](https://github.com/chiangtau/Professional-Course-Notes-Open-Source-BUPT/blob/main/src/Google_Drive.png)](https://www.google.com/drive/)
+| <a href="https://www.goodnotes.com/" target="_blank"><img src="https://uploads-ssl.webflow.com/622072bb155784c16fe8ef39/623e91bfd599265ea93c8e67_goodnoteslogo_2.png" width="250px"></a> | <a href="https://www.adobe.com/hk_zh/" target="_blank"><img src="https://s1.ax1x.com/2022/09/02/vI1ERJ.png" width="250px"></a> | <a href="https://www.google.com/drive/" target="_blank"><img src="https://s1.ax1x.com/2022/09/02/vI8srn.jpg" width="400px"></a> | <a href="https://www.bupt.edu.cn/" target="_blank"><img src="https://www.bupt.edu.cn/__local/C/8E/F7/EE902059AE32E0E6325EFEE8F46_B2D41D06_CD58.png" width="300px"></a> | <a href="https://www.jiangtaoyu.com/" target="_blank"><img src="https://s1.ax1x.com/2022/09/02/vIGCZt.jpg" width="200px"></a> |
+| ---- | ---- | ---- | ---- | ---- |
