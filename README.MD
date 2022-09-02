@@ -1,4 +1,4 @@
-<center> <a href="https://github.com/chiangtau/Professional-Course-Notes-Open-Source" target="_blank"><img src="https://github.com/chiangtau/Professional-Course-Notes-Open-Source/blob/main/src/logo.png?raw=true" width="100%"></a> </center>   
+<center> <a href="https://github.com/chiangtau/Professional-Course-Notes-Open-Source/blob/main/src/logo.png" target="_blank"><img src="https://github.com/chiangtau/Professional-Course-Notes-Open-Source/blob/main/src/logo.png?raw=true" width="100%"></a> </center>   
 <br>
 
 [![](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/chiangtau/Professional-Course-Notes-Open-Source-BUPT/blob/main/LICENSE) 
