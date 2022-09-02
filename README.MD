@@ -16,8 +16,8 @@ If you think this open source project is very helpful to you, please click on **
 
 ## **Contributors**
 -------------
-| <center> <a href="https://www.jiangtaoyu.com/" target="_blank"><img src="https://s1.ax1x.com/2022/09/02/vIGCZt.jpg" width="50px"></a> <br> Jiangtao Yu (Creator) <br> Homepage: www.jiangtaoyu.com <br> Email: jiangtyu2001@gmail.com| Looking forward to your joining !| |
-| ----- | :----: | :----: |
+| <center> <a href="https://www.jiangtaoyu.com/" target="_blank"><img src="https://s1.ax1x.com/2022/09/02/vIGCZt.jpg" width="50px"></a> <br> Jiangtao Yu (Creator) <br> Homepage: www.jiangtaoyu.com <br> Email: jiangtyu2001@gmail.com| Looking forward to your joining !|
+| ----- | :----: |
 
 
 
