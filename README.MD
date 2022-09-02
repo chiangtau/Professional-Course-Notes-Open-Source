@@ -1,7 +1,6 @@
 <center> <a href="https://github.com/chiangtau/Professional-Course-Notes-Open-Source/blob/main/src/logo.png" target="_blank"><img src="https://github.com/chiangtau/Professional-Course-Notes-Open-Source/blob/main/src/logo.png?raw=true" width="100%"></a> </center>   
 <br>
-
-[![](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/chiangtau/Professional-Course-Notes-Open-Source-BUPT/blob/main/LICENSE) 
+ [![](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/chiangtau/Professional-Course-Notes-Open-Source-BUPT/blob/main/LICENSE) 
 
 Hello, there! Welcome to this repository, which provides most of the undergraduate course notes of Beijing University of Posts and Telecommunications, created by [@chiangtau](https://github.com/chiangtau). You can use the **completely open-source & free** notes here. The formats provided by this repository include GoodNotes and PDF versions. Due to the limitation of Github, when the file size is less than 100M, it can be downloaded directly from the repository. If the file is larger than 100M, it can be opened through the link of Google Drive.   
 If you think this open source project is very helpful to you, please click on **:heart: Sponsor** above to send me a cup of coffee, thank you for support.
@@ -19,7 +18,7 @@ If you think this open source project is very helpful to you, please click on **
 
 ## **Contributors**
 -------------
-| <center> <a href="https://www.jiangtaoyu.com/" target="_blank"><img src="https://s1.ax1x.com/2022/09/02/vIGCZt.jpg" width="50px"></a> <br> Jiangtao Yu (Creator) <br> Homepage: www.jiangtaoyu.com <br> Email: jiangtyu2001@gmail.com| Looking forward to your joining !|
+| <center> <a href="https://www.jiangtaoyu.com/" target="_blank"><img src="https://s1.ax1x.com/2022/09/02/vIGCZt.jpg" width="50px"></a> <br> Jiangtao Yu (Creator) <br> Homepage: www.jiangtaoyu.com <br> Email: jiangtyu2001@gmail.com| Looking forward to your joining! |
 | ----- | :----: |
 
 ## **Logs**
