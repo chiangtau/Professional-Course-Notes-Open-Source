@@ -1,4 +1,7 @@
-# **Professional Course Notes Open Source**  [![](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/chiangtau/Professional-Course-Notes-Open-Source-BUPT/blob/main/LICENSE) 
+<center> <a href="https://github.com/chiangtau/Professional-Course-Notes-Open-Source" target="_blank"><img src="https://github.com/chiangtau/Professional-Course-Notes-Open-Source/blob/main/src/logo.png?raw=true" width="100%"></a> </center>   
+<br>
+
+[![](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/chiangtau/Professional-Course-Notes-Open-Source-BUPT/blob/main/LICENSE) 
 
 Hello, there! Welcome to this repository, which provides most of the undergraduate course notes of Beijing University of Posts and Telecommunications, created by [@chiangtau](https://github.com/chiangtau). You can use the **completely open-source & free** notes here. The formats provided by this repository include GoodNotes and PDF versions. Due to the limitation of Github, when the file size is less than 100M, it can be downloaded directly from the repository. If the file is larger than 100M, it can be opened through the link of Google Drive.   
 If you think this open source project is very helpful to you, please click on **:heart: Sponsor** above to send me a cup of coffee, thank you for support.
@@ -21,7 +24,8 @@ If you think this open source project is very helpful to you, please click on **
 
 ## **Logs**
 -------------
-[@chiangtau](https://github.com/chiangtau): Upload Notes about `Probability Theory and Mathematical Statistics`, `Mathematical Analysis (Engineering)`, `Linear Algebra`, `Engineering Mathematics`, `Data Structures and Algorithms`, `Circuit Analysis`, `Analog Electronic Circuit Fundamentals` on 22 Aug.
+[@chiangtau](https://github.com/chiangtau):   
+Upload Notes about `Probability Theory and Mathematical Statistics`, `Mathematical Analysis (Engineering)`, `Linear Algebra`, `Engineering Mathematics`, `Data Structures and Algorithms`, `Circuit Analysis`, `Analog Electronic Circuit Fundamentals` on 22 Aug.
 
 ## **LINKS**
 | <center> <a href="https://www.goodnotes.com/" target="_blank"><img src="https://uploads-ssl.webflow.com/622072bb155784c16fe8ef39/623e91bfd599265ea93c8e67_goodnoteslogo_2.png" width="250px"></a> | <center> <a href="https://www.adobe.com/hk_zh/" target="_blank"><img src="https://s1.ax1x.com/2022/09/02/vI1ERJ.png" width="250px"></a> | <center> <a href="https://www.google.com/drive/" target="_blank"><img src="https://s1.ax1x.com/2022/09/02/vI8srn.jpg" width="400px"></a> | <center> <a href="https://www.bupt.edu.cn/" target="_blank"><img src="https://www.bupt.edu.cn/__local/C/8E/F7/EE902059AE32E0E6325EFEE8F46_B2D41D06_CD58.png" width="300px"></a> |
